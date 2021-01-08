@@ -1,4 +1,3 @@
-const APIKey="3fea0a82431e3ed09d45dc925a98fae7";
 const locationButton=document.getElementById('locationButton');
 const ZipButton= document.getElementById('zipCodeButton');
  async function getPosition(pos){
